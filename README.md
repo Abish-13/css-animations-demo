@@ -29,4 +29,4 @@ This project is a demonstration of proficiency in creating dynamic and interacti
 
 ## 🚀 Live Demo
 
-You can view the live deployed version of this project here: **[Paste Your Live URL Here]**
+You can view the live deployed version of this project here: **https://abish-13.github.io/css-animations-demo/**
